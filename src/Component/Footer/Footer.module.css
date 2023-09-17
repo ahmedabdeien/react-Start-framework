@@ -1,0 +1,11 @@
+.width{
+    width: 35px;
+    height: 35px;
+    border-radius: 50px;
+    border: 1px solid white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0 5px;
+    cursor: pointer;
+}
